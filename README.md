@@ -1,4 +1,4 @@
-# Joystick Mouse Control
+# Joystick PC Navigation
 
 This Python script allows you to control your mouse using a joystick. It utilizes Pygame for joystick input and PyAutoGUI for mouse actions.
 
