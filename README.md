@@ -30,7 +30,7 @@ pip install pygame pyautogui
 - Ensure proper permissions for mouse control on your OS.
 
 ---
-
+## Quick Look
 ```python
 import pygame
 import pyautogui
